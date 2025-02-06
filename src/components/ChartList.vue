@@ -34,7 +34,6 @@ import {
 
 import { Sales } from '@/types/sales.types';
 
-
 Chart.register();
 
 const props = defineProps< {
